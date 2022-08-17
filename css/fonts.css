@@ -1,0 +1,15 @@
+@font-face{
+  font-family: 'rubik';
+  src: url('../fonts/Rubik-Regular.ttf') format('TRUETYPE');
+  font-weight: 400;
+}
+@font-face{
+  font-family: 'rubik';
+  src: url('../fonts/Rubik-SemiBold.ttf') format('TRUETYPE');
+  font-weight: 600;
+}
+@font-face{
+  font-family: 'rubik';
+  src: url('../fonts/Rubik-Light.ttf') format('TRUETYPE');
+  font-weight: 300;
+}
